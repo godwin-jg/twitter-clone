@@ -52,7 +52,7 @@ export function SideNav() {
                 <span className="flex items-center gap-4">
                   <VscSignOut className="h-8 w-8 fill-red-700" />
                   <span className="hidden text-lg text-red-700 md:inline">
-                    LOG OUT
+                    Log Out
                   </span>
                 </span>
               </IconHoverEffect>
